@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\bin\Debug\DoULoveMe.exe.config
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\bin\Debug\DoULoveMe.exe
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\bin\Debug\DoULoveMe.pdb
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.Form1.resources
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.exe
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.pdb
