@@ -8,3 +8,7 @@ C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.cspr
 C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.exe
 C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.pdb
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\bin\Debug\DoULoveMe.exe.manifest
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\bin\Debug\DoULoveMe.application
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.exe.manifest
+C:\Users\Administrator\source\repos\DoULoveMe\DoULoveMe\obj\Debug\DoULoveMe.application
